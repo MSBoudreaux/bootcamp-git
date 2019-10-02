@@ -6,3 +6,14 @@ bow wow
 bork
 pupper
 shib
+pikachu
+charmander
+squirtle
+bulbasaur
+charmelon
+charizard
+ivysaur
+venasaur
+wartortle
+blastoise
+origin/merge-exercise
